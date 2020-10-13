@@ -4,8 +4,6 @@ using Mercado.Aplicattion.UseCase.Interface;
 using Mercado.Domain.Repository;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Net;
 
 namespace Mercado.Aplicattion.UseCase
 {

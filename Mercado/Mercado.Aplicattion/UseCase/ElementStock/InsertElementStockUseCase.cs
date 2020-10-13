@@ -17,6 +17,10 @@ namespace Mercado.Aplicattion.UseCase
             _repository = repository;
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="request"></param>
         public void Execute(InsertElementStockRequest request)
         {
             var input = _mapper.Map<ElementStock>(request);

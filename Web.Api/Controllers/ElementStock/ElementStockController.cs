@@ -15,6 +15,11 @@ namespace Web.Api.Controllers
             _insert = insert;
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="request"></param>
+        /// <returns></returns>
         [HttpPost]
         public IActionResult Insert([FromBody] InsertElementStockRequest request)
         {
