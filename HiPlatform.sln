@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculaPreco", "FormulaMagica\CalculaPreco.csproj", "{BD0AF6A1-4C76-4938-B594-8B6DE8F9797C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eleicao", "Eleicao\Eleicao.csproj", "{A21ADB83-688F-4804-A358-2B230060A831}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mercado.Aplicattion", "Mercado\Mercado.Aplicattion\Mercado.Aplicattion.csproj", "{A365C1BD-59A5-4A11-B253-1868F950DDB1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mercado.Infra", "Mercado\Mercado.Infra\Mercado.Infra\Mercado.Infra.csproj", "{8358AAB6-8E7A-4EB6-BAC8-EEFDAC4B2CA1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mercado.Domain", "Mercado\Mercado.Domain\Mercado.Domain.csproj", "{DD6B5AFA-3354-4507-94A5-A4C27C58ACF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.Api", "Web.Api\Web.Api.csproj", "{BCC4DEFD-651D-453C-87BC-F5C81FDE9233}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD0AF6A1-4C76-4938-B594-8B6DE8F9797C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0AF6A1-4C76-4938-B594-8B6DE8F9797C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0AF6A1-4C76-4938-B594-8B6DE8F9797C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0AF6A1-4C76-4938-B594-8B6DE8F9797C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A21ADB83-688F-4804-A358-2B230060A831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A21ADB83-688F-4804-A358-2B230060A831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A21ADB83-688F-4804-A358-2B230060A831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A21ADB83-688F-4804-A358-2B230060A831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A365C1BD-59A5-4A11-B253-1868F950DDB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A365C1BD-59A5-4A11-B253-1868F950DDB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A365C1BD-59A5-4A11-B253-1868F950DDB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A365C1BD-59A5-4A11-B253-1868F950DDB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8358AAB6-8E7A-4EB6-BAC8-EEFDAC4B2CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8358AAB6-8E7A-4EB6-BAC8-EEFDAC4B2CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8358AAB6-8E7A-4EB6-BAC8-EEFDAC4B2CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8358AAB6-8E7A-4EB6-BAC8-EEFDAC4B2CA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD6B5AFA-3354-4507-94A5-A4C27C58ACF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6B5AFA-3354-4507-94A5-A4C27C58ACF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6B5AFA-3354-4507-94A5-A4C27C58ACF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6B5AFA-3354-4507-94A5-A4C27C58ACF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCC4DEFD-651D-453C-87BC-F5C81FDE9233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC4DEFD-651D-453C-87BC-F5C81FDE9233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC4DEFD-651D-453C-87BC-F5C81FDE9233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC4DEFD-651D-453C-87BC-F5C81FDE9233}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B7E8ABF-05CB-4F48-A10D-576E80CB2118}
+	EndGlobalSection
+EndGlobal
